@@ -1,0 +1,5 @@
+regulation_id,clause,description,criticality
+RBI-IT-01,Cyber Security Incident Reporting,Banks must report cyber incidents within 6 hours.,High
+GDPR-06,Right to Erasure,Users can request deletion of personal data.,Medium
+PCI-12,Cardholder Data Protection,Card data must be encrypted and tokenized.,High
+RBI-IT-09,Data Localization Requirement,Banks must store certain data within India.,High

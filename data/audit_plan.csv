@@ -1,0 +1,51 @@
+audit_id,audit_area,frequency,planned_start,planned_end,audit_owner,scope,status
+AUD-001,Application Security,Yearly,2025-01-01,2025-01-15,CRO,Apps,In Progress
+AUD-002,Cyber Security,Quarterly,2025-01-08,2025-01-22,CIO,Infra,Planned
+AUD-003,Cyber Security,Yearly,2025-01-15,2025-01-29,CISO,Apps,In Progress
+AUD-004,Application Security,Half-Yearly,2025-01-22,2025-02-05,CIO,SOC,In Progress
+AUD-005,Application Security,Yearly,2025-01-29,2025-02-12,CRO,Vendors,In Progress
+AUD-006,Application Security,Quarterly,2025-02-05,2025-02-19,CIO,SOC,Completed
+AUD-007,Cyber Security,Half-Yearly,2025-02-12,2025-02-26,CIO,SOC,Planned
+AUD-008,IT Governance,Quarterly,2025-02-19,2025-03-05,CIO,SOC,In Progress
+AUD-009,Cyber Security,Yearly,2025-02-26,2025-03-12,Head-IT,Apps,In Progress
+AUD-010,Cyber Security,Yearly,2025-03-05,2025-03-19,CISO,Vendors,Completed
+AUD-011,BCP/DR,Half-Yearly,2025-03-12,2025-03-26,CISO,Vendors,Planned
+AUD-012,Vendor Risk,Quarterly,2025-03-19,2025-04-02,CISO,Vendors,In Progress
+AUD-013,Application Security,Yearly,2025-03-26,2025-04-09,CISO,Apps,Planned
+AUD-014,BCP/DR,Half-Yearly,2025-04-02,2025-04-16,CIO,SOC,In Progress
+AUD-015,IT Governance,Quarterly,2025-04-09,2025-04-23,CRO,Apps,Planned
+AUD-016,BCP/DR,Yearly,2025-04-16,2025-04-30,CIO,SOC,Completed
+AUD-017,Vendor Risk,Yearly,2025-04-23,2025-05-07,CIO,SIEM,Completed
+AUD-018,Application Security,Quarterly,2025-04-30,2025-05-14,CIO,Vendors,Planned
+AUD-019,BCP/DR,Half-Yearly,2025-05-07,2025-05-21,CISO,SOC,In Progress
+AUD-020,BCP/DR,Quarterly,2025-05-14,2025-05-28,CRO,Policies,Planned
+AUD-021,IT Governance,Half-Yearly,2025-05-21,2025-06-04,CRO,Apps,In Progress
+AUD-022,Cyber Security,Yearly,2025-05-28,2025-06-11,CIO,Policies,Completed
+AUD-023,Vendor Risk,Quarterly,2025-06-04,2025-06-18,CRO,SOC,Completed
+AUD-024,Vendor Risk,Yearly,2025-06-11,2025-06-25,CIO,SIEM,Completed
+AUD-025,Application Security,Yearly,2025-06-18,2025-07-02,CISO,Vendors,In Progress
+AUD-026,Vendor Risk,Half-Yearly,2025-06-25,2025-07-09,CIO,SIEM,In Progress
+AUD-027,IT Governance,Quarterly,2025-07-02,2025-07-16,CRO,SIEM,Completed
+AUD-028,Vendor Risk,Quarterly,2025-07-09,2025-07-23,CRO,SOC,In Progress
+AUD-029,Cyber Security,Quarterly,2025-07-16,2025-07-30,Head-IT,SIEM,Planned
+AUD-030,Cyber Security,Yearly,2025-07-23,2025-08-06,CRO,Infra,Completed
+AUD-031,BCP/DR,Quarterly,2025-07-30,2025-08-13,Head-IT,SOC,Planned
+AUD-032,Cyber Security,Half-Yearly,2025-08-06,2025-08-20,CRO,Policies,Completed
+AUD-033,Vendor Risk,Yearly,2025-08-13,2025-08-27,CISO,Infra,In Progress
+AUD-034,IT Governance,Yearly,2025-08-20,2025-09-03,CISO,Infra,In Progress
+AUD-035,Vendor Risk,Quarterly,2025-08-27,2025-09-10,CIO,Infra,Planned
+AUD-036,Cyber Security,Half-Yearly,2025-09-03,2025-09-17,CIO,Policies,Completed
+AUD-037,IT Governance,Quarterly,2025-09-10,2025-09-24,Head-IT,Apps,Completed
+AUD-038,Cyber Security,Quarterly,2025-09-17,2025-10-01,CRO,Vendors,In Progress
+AUD-039,Vendor Risk,Half-Yearly,2025-09-24,2025-10-08,Head-IT,Apps,Completed
+AUD-040,Vendor Risk,Yearly,2025-10-01,2025-10-15,CRO,Apps,In Progress
+AUD-041,IT Governance,Quarterly,2025-10-08,2025-10-22,Head-IT,Apps,Completed
+AUD-042,Application Security,Half-Yearly,2025-10-15,2025-10-29,CRO,Apps,In Progress
+AUD-043,Application Security,Half-Yearly,2025-10-22,2025-11-05,Head-IT,Apps,Completed
+AUD-044,IT Governance,Half-Yearly,2025-10-29,2025-11-12,Head-IT,Infra,Completed
+AUD-045,Vendor Risk,Half-Yearly,2025-11-05,2025-11-19,CIO,Infra,Planned
+AUD-046,Vendor Risk,Quarterly,2025-11-12,2025-11-26,CIO,SIEM,In Progress
+AUD-047,Vendor Risk,Quarterly,2025-11-19,2025-12-03,CRO,SIEM,Planned
+AUD-048,BCP/DR,Quarterly,2025-11-26,2025-12-10,Head-IT,Apps,In Progress
+AUD-049,IT Governance,Quarterly,2025-12-03,2025-12-17,Head-IT,Apps,In Progress
+AUD-050,IT Governance,Yearly,2025-12-10,2025-12-24,CISO,Apps,Planned

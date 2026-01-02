@@ -1,0 +1,201 @@
+asset_id,asset_type,owner,criticality,location,patched,last_patch_date
+ASSET-0001,Database,IT Ops,High,DC1,Yes,2024-01-01
+ASSET-0002,Network Device,DBA,High,Cloud-AWS,No,2024-01-04
+ASSET-0003,Network Device,App Team,Critical,DC1,Yes,2024-01-07
+ASSET-0004,Server,IT Ops,Low,DC1,Yes,2024-01-10
+ASSET-0005,Server,App Team,Medium,Cloud-Azure,No,2024-01-13
+ASSET-0006,Server,IT Ops,Low,Cloud-Azure,Yes,2024-01-16
+ASSET-0007,Database,Security,Low,Cloud-AWS,No,2024-01-19
+ASSET-0008,Network Device,DBA,Medium,Cloud-Azure,No,2024-01-22
+ASSET-0009,Application,App Team,Medium,DC1,Yes,2024-01-25
+ASSET-0010,Server,IT Ops,High,Cloud-Azure,No,2024-01-28
+ASSET-0011,Network Device,App Team,Low,DC1,No,2024-01-31
+ASSET-0012,Server,Security,Low,DC1,Yes,2024-02-03
+ASSET-0013,Network Device,App Team,High,DC1,Yes,2024-02-06
+ASSET-0014,Database,App Team,High,Cloud-Azure,Yes,2024-02-09
+ASSET-0015,Server,App Team,High,DC1,No,2024-02-12
+ASSET-0016,Database,Security,Medium,Cloud-Azure,No,2024-02-15
+ASSET-0017,Application,IT Ops,Critical,DC1,Yes,2024-02-18
+ASSET-0018,Database,DBA,Low,DC2,Yes,2024-02-21
+ASSET-0019,Server,IT Ops,Low,DC1,No,2024-02-24
+ASSET-0020,Network Device,IT Ops,High,DC2,No,2024-02-27
+ASSET-0021,Network Device,Security,High,Cloud-Azure,No,2024-03-01
+ASSET-0022,Database,App Team,Low,Cloud-AWS,Yes,2024-03-04
+ASSET-0023,Database,Security,Low,Cloud-Azure,No,2024-03-07
+ASSET-0024,Database,DBA,High,DC2,No,2024-03-10
+ASSET-0025,Application,DBA,Critical,DC1,Yes,2024-03-13
+ASSET-0026,Server,Security,High,Cloud-AWS,No,2024-03-16
+ASSET-0027,Database,IT Ops,Critical,DC1,No,2024-03-19
+ASSET-0028,Server,IT Ops,High,DC1,Yes,2024-03-22
+ASSET-0029,Network Device,DBA,Critical,DC1,Yes,2024-03-25
+ASSET-0030,Server,IT Ops,Medium,Cloud-Azure,Yes,2024-03-28
+ASSET-0031,Database,DBA,Medium,Cloud-AWS,Yes,2024-03-31
+ASSET-0032,Server,Security,Medium,Cloud-Azure,Yes,2024-04-03
+ASSET-0033,Server,IT Ops,Medium,DC1,Yes,2024-04-06
+ASSET-0034,Server,App Team,Low,Cloud-AWS,No,2024-04-09
+ASSET-0035,Server,IT Ops,Low,DC2,Yes,2024-04-12
+ASSET-0036,Server,Security,High,Cloud-Azure,No,2024-04-15
+ASSET-0037,Application,IT Ops,High,Cloud-Azure,Yes,2024-04-18
+ASSET-0038,Database,IT Ops,Medium,DC1,Yes,2024-04-21
+ASSET-0039,Network Device,App Team,High,Cloud-Azure,Yes,2024-04-24
+ASSET-0040,Network Device,App Team,Medium,Cloud-Azure,No,2024-04-27
+ASSET-0041,Server,DBA,Low,Cloud-Azure,No,2024-04-30
+ASSET-0042,Application,IT Ops,High,Cloud-Azure,Yes,2024-05-03
+ASSET-0043,Network Device,Security,Medium,DC2,Yes,2024-05-06
+ASSET-0044,Network Device,Security,High,Cloud-Azure,No,2024-05-09
+ASSET-0045,Network Device,DBA,Low,Cloud-Azure,Yes,2024-05-12
+ASSET-0046,Server,DBA,Critical,DC2,Yes,2024-05-15
+ASSET-0047,Database,IT Ops,Critical,Cloud-AWS,No,2024-05-18
+ASSET-0048,Application,Security,Critical,Cloud-AWS,No,2024-05-21
+ASSET-0049,Server,App Team,High,Cloud-AWS,No,2024-05-24
+ASSET-0050,Application,IT Ops,High,DC1,No,2024-05-27
+ASSET-0051,Server,Security,Medium,Cloud-Azure,Yes,2024-05-30
+ASSET-0052,Application,Security,Critical,DC1,Yes,2024-06-02
+ASSET-0053,Application,IT Ops,Critical,DC1,Yes,2024-06-05
+ASSET-0054,Server,DBA,Low,DC2,No,2024-06-08
+ASSET-0055,Network Device,DBA,Medium,DC2,Yes,2024-06-11
+ASSET-0056,Database,App Team,Critical,DC1,No,2024-06-14
+ASSET-0057,Database,Security,High,DC2,No,2024-06-17
+ASSET-0058,Network Device,IT Ops,Critical,Cloud-AWS,Yes,2024-06-20
+ASSET-0059,Server,Security,Medium,DC1,Yes,2024-06-23
+ASSET-0060,Server,Security,Medium,Cloud-Azure,Yes,2024-06-26
+ASSET-0061,Network Device,Security,High,DC1,Yes,2024-06-29
+ASSET-0062,Application,IT Ops,Medium,DC2,No,2024-07-02
+ASSET-0063,Network Device,App Team,High,DC2,Yes,2024-07-05
+ASSET-0064,Server,IT Ops,Low,DC2,No,2024-07-08
+ASSET-0065,Network Device,Security,Low,DC1,Yes,2024-07-11
+ASSET-0066,Database,IT Ops,Critical,DC2,No,2024-07-14
+ASSET-0067,Network Device,DBA,Low,DC2,Yes,2024-07-17
+ASSET-0068,Database,Security,Low,Cloud-AWS,Yes,2024-07-20
+ASSET-0069,Application,App Team,Low,DC2,No,2024-07-23
+ASSET-0070,Network Device,Security,Low,DC1,No,2024-07-26
+ASSET-0071,Server,DBA,Critical,DC2,No,2024-07-29
+ASSET-0072,Server,IT Ops,Medium,Cloud-AWS,No,2024-08-01
+ASSET-0073,Application,IT Ops,Medium,Cloud-AWS,Yes,2024-08-04
+ASSET-0074,Server,IT Ops,High,Cloud-AWS,No,2024-08-07
+ASSET-0075,Database,Security,High,Cloud-AWS,Yes,2024-08-10
+ASSET-0076,Server,Security,Critical,DC2,No,2024-08-13
+ASSET-0077,Application,App Team,Low,Cloud-AWS,No,2024-08-16
+ASSET-0078,Server,IT Ops,Critical,DC2,No,2024-08-19
+ASSET-0079,Application,IT Ops,Critical,DC1,Yes,2024-08-22
+ASSET-0080,Database,IT Ops,Medium,Cloud-AWS,Yes,2024-08-25
+ASSET-0081,Database,App Team,Critical,DC1,Yes,2024-08-28
+ASSET-0082,Application,Security,Medium,Cloud-Azure,No,2024-08-31
+ASSET-0083,Server,App Team,Low,Cloud-Azure,Yes,2024-09-03
+ASSET-0084,Database,App Team,Low,DC2,Yes,2024-09-06
+ASSET-0085,Application,Security,Critical,Cloud-Azure,Yes,2024-09-09
+ASSET-0086,Network Device,Security,Low,DC1,No,2024-09-12
+ASSET-0087,Server,Security,Critical,Cloud-AWS,No,2024-09-15
+ASSET-0088,Application,DBA,Medium,DC2,No,2024-09-18
+ASSET-0089,Database,DBA,High,Cloud-AWS,Yes,2024-09-21
+ASSET-0090,Server,DBA,Medium,DC1,No,2024-09-24
+ASSET-0091,Network Device,Security,Critical,DC2,Yes,2024-09-27
+ASSET-0092,Application,IT Ops,Low,Cloud-Azure,Yes,2024-09-30
+ASSET-0093,Network Device,IT Ops,Low,DC2,Yes,2024-10-03
+ASSET-0094,Application,App Team,Low,Cloud-AWS,No,2024-10-06
+ASSET-0095,Application,IT Ops,High,Cloud-AWS,No,2024-10-09
+ASSET-0096,Server,DBA,High,Cloud-Azure,Yes,2024-10-12
+ASSET-0097,Network Device,DBA,Low,DC2,No,2024-10-15
+ASSET-0098,Network Device,App Team,High,DC1,Yes,2024-10-18
+ASSET-0099,Application,App Team,High,DC2,Yes,2024-10-21
+ASSET-0100,Server,DBA,Medium,DC2,No,2024-10-24
+ASSET-0101,Network Device,DBA,Critical,Cloud-Azure,No,2024-10-27
+ASSET-0102,Network Device,IT Ops,Critical,DC2,Yes,2024-10-30
+ASSET-0103,Network Device,IT Ops,High,DC1,No,2024-11-02
+ASSET-0104,Network Device,DBA,Medium,DC1,Yes,2024-11-05
+ASSET-0105,Application,IT Ops,Low,DC2,No,2024-11-08
+ASSET-0106,Network Device,App Team,Medium,DC1,No,2024-11-11
+ASSET-0107,Network Device,App Team,Low,DC2,No,2024-11-14
+ASSET-0108,Database,App Team,Critical,Cloud-Azure,Yes,2024-11-17
+ASSET-0109,Network Device,App Team,Critical,Cloud-Azure,No,2024-11-20
+ASSET-0110,Database,IT Ops,Medium,Cloud-AWS,No,2024-11-23
+ASSET-0111,Network Device,DBA,Low,DC1,Yes,2024-11-26
+ASSET-0112,Database,Security,Medium,Cloud-AWS,Yes,2024-11-29
+ASSET-0113,Network Device,Security,High,Cloud-AWS,Yes,2024-12-02
+ASSET-0114,Application,Security,Critical,Cloud-Azure,No,2024-12-05
+ASSET-0115,Database,App Team,Low,Cloud-Azure,Yes,2024-12-08
+ASSET-0116,Network Device,Security,High,DC1,Yes,2024-12-11
+ASSET-0117,Database,App Team,Critical,DC1,Yes,2024-12-14
+ASSET-0118,Network Device,Security,Low,DC2,No,2024-12-17
+ASSET-0119,Database,Security,Medium,Cloud-Azure,No,2024-12-20
+ASSET-0120,Application,DBA,Low,Cloud-Azure,No,2024-12-23
+ASSET-0121,Network Device,DBA,High,DC2,Yes,2024-12-26
+ASSET-0122,Network Device,DBA,Low,Cloud-AWS,Yes,2024-12-29
+ASSET-0123,Database,IT Ops,Medium,Cloud-Azure,Yes,2025-01-01
+ASSET-0124,Network Device,App Team,Low,DC1,No,2025-01-04
+ASSET-0125,Network Device,DBA,Medium,Cloud-AWS,No,2025-01-07
+ASSET-0126,Server,IT Ops,Medium,DC1,No,2025-01-10
+ASSET-0127,Network Device,DBA,Medium,Cloud-AWS,Yes,2025-01-13
+ASSET-0128,Application,IT Ops,High,Cloud-Azure,No,2025-01-16
+ASSET-0129,Network Device,IT Ops,Critical,DC2,No,2025-01-19
+ASSET-0130,Database,DBA,Medium,Cloud-Azure,No,2025-01-22
+ASSET-0131,Application,IT Ops,High,Cloud-Azure,Yes,2025-01-25
+ASSET-0132,Network Device,Security,High,DC2,No,2025-01-28
+ASSET-0133,Server,IT Ops,Critical,Cloud-Azure,Yes,2025-01-31
+ASSET-0134,Application,Security,Low,Cloud-AWS,No,2025-02-03
+ASSET-0135,Network Device,Security,Medium,Cloud-AWS,Yes,2025-02-06
+ASSET-0136,Database,DBA,High,Cloud-Azure,Yes,2025-02-09
+ASSET-0137,Network Device,Security,Low,Cloud-AWS,No,2025-02-12
+ASSET-0138,Database,App Team,Medium,DC2,No,2025-02-15
+ASSET-0139,Application,DBA,Low,DC2,No,2025-02-18
+ASSET-0140,Database,IT Ops,Low,DC1,No,2025-02-21
+ASSET-0141,Network Device,Security,Medium,Cloud-AWS,Yes,2025-02-24
+ASSET-0142,Application,App Team,Critical,Cloud-AWS,No,2025-02-27
+ASSET-0143,Application,Security,Medium,DC1,No,2025-03-02
+ASSET-0144,Database,IT Ops,Critical,DC2,Yes,2025-03-05
+ASSET-0145,Server,App Team,Critical,DC2,No,2025-03-08
+ASSET-0146,Application,Security,Low,DC1,Yes,2025-03-11
+ASSET-0147,Database,DBA,Medium,DC2,Yes,2025-03-14
+ASSET-0148,Server,App Team,Medium,Cloud-AWS,No,2025-03-17
+ASSET-0149,Application,App Team,Medium,Cloud-Azure,No,2025-03-20
+ASSET-0150,Network Device,App Team,Critical,DC1,Yes,2025-03-23
+ASSET-0151,Network Device,IT Ops,Low,DC2,No,2025-03-26
+ASSET-0152,Database,Security,High,Cloud-AWS,No,2025-03-29
+ASSET-0153,Application,Security,Medium,Cloud-Azure,Yes,2025-04-01
+ASSET-0154,Application,Security,Low,Cloud-Azure,Yes,2025-04-04
+ASSET-0155,Database,App Team,Low,DC1,No,2025-04-07
+ASSET-0156,Network Device,DBA,Critical,Cloud-AWS,Yes,2025-04-10
+ASSET-0157,Network Device,IT Ops,Low,Cloud-Azure,No,2025-04-13
+ASSET-0158,Application,App Team,Critical,DC2,No,2025-04-16
+ASSET-0159,Database,DBA,Low,Cloud-AWS,No,2025-04-19
+ASSET-0160,Application,Security,Critical,DC2,Yes,2025-04-22
+ASSET-0161,Database,IT Ops,Critical,Cloud-Azure,Yes,2025-04-25
+ASSET-0162,Application,Security,Critical,Cloud-AWS,No,2025-04-28
+ASSET-0163,Server,Security,Critical,Cloud-Azure,Yes,2025-05-01
+ASSET-0164,Network Device,App Team,Low,DC1,Yes,2025-05-04
+ASSET-0165,Application,Security,Low,Cloud-Azure,Yes,2025-05-07
+ASSET-0166,Network Device,App Team,High,Cloud-AWS,No,2025-05-10
+ASSET-0167,Server,Security,Critical,DC2,No,2025-05-13
+ASSET-0168,Application,IT Ops,High,Cloud-Azure,Yes,2025-05-16
+ASSET-0169,Database,DBA,Low,Cloud-Azure,Yes,2025-05-19
+ASSET-0170,Server,IT Ops,Low,Cloud-AWS,No,2025-05-22
+ASSET-0171,Application,DBA,Medium,DC2,Yes,2025-05-25
+ASSET-0172,Application,IT Ops,High,Cloud-Azure,No,2025-05-28
+ASSET-0173,Application,IT Ops,Low,Cloud-AWS,Yes,2025-05-31
+ASSET-0174,Server,DBA,Low,DC2,Yes,2025-06-03
+ASSET-0175,Server,App Team,Critical,DC2,Yes,2025-06-06
+ASSET-0176,Network Device,Security,Low,Cloud-AWS,Yes,2025-06-09
+ASSET-0177,Server,DBA,Critical,Cloud-AWS,No,2025-06-12
+ASSET-0178,Network Device,IT Ops,Critical,Cloud-Azure,Yes,2025-06-15
+ASSET-0179,Network Device,DBA,High,Cloud-AWS,Yes,2025-06-18
+ASSET-0180,Application,IT Ops,Critical,DC2,No,2025-06-21
+ASSET-0181,Database,Security,Medium,Cloud-AWS,Yes,2025-06-24
+ASSET-0182,Database,Security,High,DC2,Yes,2025-06-27
+ASSET-0183,Application,IT Ops,Critical,Cloud-Azure,Yes,2025-06-30
+ASSET-0184,Application,App Team,Low,Cloud-AWS,No,2025-07-03
+ASSET-0185,Server,IT Ops,Medium,Cloud-Azure,Yes,2025-07-06
+ASSET-0186,Application,Security,Medium,Cloud-Azure,No,2025-07-09
+ASSET-0187,Server,DBA,Critical,DC2,No,2025-07-12
+ASSET-0188,Database,Security,Medium,Cloud-Azure,Yes,2025-07-15
+ASSET-0189,Network Device,IT Ops,Critical,Cloud-AWS,No,2025-07-18
+ASSET-0190,Server,App Team,Low,DC2,No,2025-07-21
+ASSET-0191,Network Device,DBA,Medium,DC1,No,2025-07-24
+ASSET-0192,Application,Security,Critical,DC1,Yes,2025-07-27
+ASSET-0193,Application,Security,Medium,DC1,Yes,2025-07-30
+ASSET-0194,Database,IT Ops,Medium,Cloud-AWS,No,2025-08-02
+ASSET-0195,Server,IT Ops,Medium,Cloud-Azure,No,2025-08-05
+ASSET-0196,Network Device,Security,Medium,Cloud-AWS,Yes,2025-08-08
+ASSET-0197,Network Device,DBA,Medium,Cloud-Azure,No,2025-08-11
+ASSET-0198,Network Device,DBA,Critical,DC1,No,2025-08-14
+ASSET-0199,Network Device,App Team,Medium,Cloud-AWS,Yes,2025-08-17
+ASSET-0200,Network Device,DBA,Critical,DC2,Yes,2025-08-20

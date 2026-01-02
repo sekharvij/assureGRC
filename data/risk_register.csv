@@ -1,0 +1,101 @@
+risk_id,process,risk_type,description,likelihood,impact,inherent_risk,control_effectiveness,residual_risk,owner
+RISK-001,Vendors,Compliance,Ransomware,3,1,3,2,1,CISO
+RISK-002,Infra,Strategic,Ransomware,2,5,10,4,6,COO
+RISK-003,Core Banking,Compliance,PII breach,4,3,12,4,8,CRO
+RISK-004,Infra,Operational,PII breach,5,3,15,1,14,CRO
+RISK-005,Digital Channels,Strategic,PII breach,5,2,10,4,6,CISO
+RISK-006,Digital Channels,Compliance,PII breach,4,1,4,2,2,CRO
+RISK-007,Vendors,Cyber,Vendor failure,4,5,20,4,16,CRO
+RISK-008,Digital Channels,Strategic,Ransomware,5,5,25,3,22,CISO
+RISK-009,Infra,Strategic,Fraud,5,1,5,4,1,COO
+RISK-010,Payments,Compliance,System downtime,4,5,20,2,18,CISO
+RISK-011,Core Banking,Strategic,System downtime,5,1,5,4,1,CRO
+RISK-012,Infra,Strategic,Fraud,2,1,2,3,-1,CISO
+RISK-013,Payments,Strategic,Ransomware,5,5,25,3,22,CRO
+RISK-014,Infra,Compliance,Fraud,3,3,9,2,7,CISO
+RISK-015,Payments,Cyber,System downtime,5,4,20,1,19,CISO
+RISK-016,Core Banking,Strategic,System downtime,2,1,2,4,-2,CISO
+RISK-017,Vendors,Operational,Ransomware,5,5,25,2,23,CISO
+RISK-018,Digital Channels,Compliance,System downtime,2,4,8,4,4,CRO
+RISK-019,Payments,Operational,Ransomware,3,1,3,3,0,COO
+RISK-020,Payments,Operational,Fraud,5,2,10,3,7,COO
+RISK-021,Vendors,Operational,Ransomware,5,5,25,2,23,CISO
+RISK-022,Core Banking,Compliance,Ransomware,2,3,6,1,5,COO
+RISK-023,Infra,Compliance,PII breach,4,1,4,2,2,COO
+RISK-024,Infra,Operational,Vendor failure,1,2,2,1,1,CISO
+RISK-025,Infra,Compliance,System downtime,1,5,5,3,2,CRO
+RISK-026,Core Banking,Compliance,Vendor failure,2,1,2,3,-1,COO
+RISK-027,Payments,Strategic,Ransomware,3,2,6,4,2,CRO
+RISK-028,Infra,Cyber,Fraud,1,5,5,1,4,CISO
+RISK-029,Digital Channels,Compliance,System downtime,4,1,4,2,2,CRO
+RISK-030,Vendors,Strategic,Vendor failure,3,5,15,3,12,COO
+RISK-031,Core Banking,Operational,Vendor failure,4,2,8,1,7,CISO
+RISK-032,Infra,Compliance,Fraud,2,3,6,2,4,CRO
+RISK-033,Digital Channels,Operational,Ransomware,2,1,2,3,-1,CRO
+RISK-034,Vendors,Operational,System downtime,4,1,4,3,1,CRO
+RISK-035,Digital Channels,Operational,System downtime,4,3,12,4,8,CRO
+RISK-036,Digital Channels,Compliance,Fraud,2,5,10,1,9,COO
+RISK-037,Digital Channels,Strategic,Vendor failure,5,4,20,1,19,CRO
+RISK-038,Infra,Operational,Ransomware,5,2,10,1,9,CRO
+RISK-039,Infra,Cyber,Ransomware,5,5,25,2,23,COO
+RISK-040,Vendors,Strategic,Vendor failure,4,2,8,4,4,CRO
+RISK-041,Infra,Cyber,Ransomware,3,1,3,1,2,COO
+RISK-042,Infra,Cyber,PII breach,3,4,12,1,11,CISO
+RISK-043,Digital Channels,Cyber,System downtime,1,5,5,3,2,CRO
+RISK-044,Core Banking,Compliance,System downtime,3,2,6,4,2,CISO
+RISK-045,Vendors,Strategic,Fraud,5,5,25,2,23,CISO
+RISK-046,Infra,Operational,Vendor failure,5,5,25,3,22,CRO
+RISK-047,Vendors,Cyber,PII breach,3,5,15,2,13,CRO
+RISK-048,Digital Channels,Operational,Fraud,3,4,12,3,9,COO
+RISK-049,Payments,Cyber,PII breach,1,4,4,1,3,CRO
+RISK-050,Vendors,Cyber,Ransomware,1,5,5,4,1,CRO
+RISK-051,Vendors,Compliance,Ransomware,4,1,4,3,1,CRO
+RISK-052,Vendors,Cyber,Ransomware,5,1,5,3,2,CRO
+RISK-053,Infra,Compliance,Fraud,2,2,4,3,1,CISO
+RISK-054,Vendors,Compliance,System downtime,5,4,20,1,19,COO
+RISK-055,Digital Channels,Compliance,System downtime,4,4,16,2,14,COO
+RISK-056,Core Banking,Operational,System downtime,2,3,6,3,3,CRO
+RISK-057,Core Banking,Strategic,Fraud,2,2,4,1,3,CRO
+RISK-058,Infra,Operational,Vendor failure,4,5,20,2,18,CISO
+RISK-059,Infra,Strategic,PII breach,1,4,4,3,1,CISO
+RISK-060,Core Banking,Compliance,PII breach,2,4,8,2,6,COO
+RISK-061,Payments,Compliance,Fraud,2,4,8,1,7,COO
+RISK-062,Core Banking,Operational,Vendor failure,1,5,5,3,2,CRO
+RISK-063,Infra,Cyber,Vendor failure,1,4,4,2,2,COO
+RISK-064,Digital Channels,Strategic,Vendor failure,4,5,20,3,17,COO
+RISK-065,Core Banking,Strategic,PII breach,4,1,4,2,2,CRO
+RISK-066,Vendors,Cyber,System downtime,2,1,2,3,-1,CISO
+RISK-067,Payments,Strategic,PII breach,3,3,9,1,8,COO
+RISK-068,Vendors,Cyber,System downtime,3,4,12,1,11,COO
+RISK-069,Core Banking,Compliance,Fraud,5,2,10,1,9,CRO
+RISK-070,Core Banking,Compliance,Fraud,4,4,16,1,15,CRO
+RISK-071,Core Banking,Strategic,Fraud,2,1,2,4,-2,CISO
+RISK-072,Core Banking,Operational,Ransomware,2,1,2,2,0,CRO
+RISK-073,Core Banking,Operational,Vendor failure,5,3,15,4,11,CRO
+RISK-074,Core Banking,Operational,System downtime,5,2,10,1,9,COO
+RISK-075,Infra,Strategic,Vendor failure,1,2,2,4,-2,CISO
+RISK-076,Digital Channels,Strategic,Fraud,5,5,25,3,22,COO
+RISK-077,Digital Channels,Cyber,Vendor failure,5,2,10,4,6,CISO
+RISK-078,Vendors,Operational,Ransomware,4,5,20,3,17,CRO
+RISK-079,Vendors,Cyber,Vendor failure,4,5,20,2,18,COO
+RISK-080,Infra,Strategic,Fraud,4,3,12,2,10,CRO
+RISK-081,Digital Channels,Cyber,Fraud,4,4,16,1,15,CISO
+RISK-082,Core Banking,Cyber,Vendor failure,2,1,2,4,-2,CRO
+RISK-083,Digital Channels,Compliance,System downtime,5,4,20,1,19,CRO
+RISK-084,Core Banking,Strategic,PII breach,4,4,16,2,14,COO
+RISK-085,Infra,Compliance,System downtime,3,1,3,1,2,CISO
+RISK-086,Infra,Compliance,Fraud,3,3,9,2,7,CRO
+RISK-087,Vendors,Compliance,Ransomware,3,5,15,4,11,CISO
+RISK-088,Infra,Cyber,Vendor failure,1,3,3,3,0,COO
+RISK-089,Infra,Compliance,Ransomware,5,4,20,1,19,CISO
+RISK-090,Infra,Operational,PII breach,5,3,15,3,12,CRO
+RISK-091,Payments,Cyber,System downtime,4,5,20,1,19,CISO
+RISK-092,Infra,Cyber,PII breach,1,3,3,1,2,CRO
+RISK-093,Core Banking,Operational,Fraud,1,3,3,4,-1,COO
+RISK-094,Digital Channels,Cyber,Ransomware,1,1,1,2,-1,CRO
+RISK-095,Core Banking,Operational,Ransomware,4,4,16,4,12,CISO
+RISK-096,Payments,Cyber,Vendor failure,2,3,6,3,3,CISO
+RISK-097,Infra,Strategic,Vendor failure,5,1,5,2,3,CISO
+RISK-098,Vendors,Cyber,Fraud,2,2,4,1,3,COO
+RISK-099,Digital Channels,Cyber,Ransomware,5,4,20,4,16,CISO
+RISK-100,Digital Channels,Strategic,Ransomware,5,2,10,4,6,COO

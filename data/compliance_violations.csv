@@ -1,0 +1,6 @@
+violation_id,regulation_id,system,issue,detected_on,severity
+V001,RBI-IT-01,Core Banking,Delayed incident reporting,2025-02-01,High
+V002,GDPR-06,CRM,Missing consent logs,2025-02-10,Medium
+V003,PCI-12,Payment Switch,Unencrypted PAN detected,2025-02-15,High
+V004,PCI-12,ATM Network,Weak TLS version (1.0),2025-02-22,Critical
+V005,RBI-IT-09,Cloud DB,Data stored outside India region,2025-03-01,High

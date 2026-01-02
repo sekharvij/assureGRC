@@ -1,0 +1,201 @@
+timestamp,event_type,user,details,risk_score
+2025-11-14 07:58:40.725923,System Error,admin,Privilege escalation,75
+2025-11-14 06:58:40.725937,Network Alert,ops-user,Multiple login failures,36
+2025-11-14 05:58:40.725941,Data Access,svc-corebank,Unauthorized access attempt,99
+2025-11-14 04:58:40.725943,Network Alert,svc-corebank,Multiple login failures,19
+2025-11-14 03:58:40.725946,Network Alert,api-gateway,Large data download,20
+2025-11-14 02:58:40.725949,Login Failure,ops-user,Multiple login failures,57
+2025-11-14 01:58:40.725951,Data Access,atm-agent,Unauthorized access attempt,18
+2025-11-14 00:58:40.725955,Data Access,ops-user,Large data download,47
+2025-11-13 23:58:40.725959,Data Access,api-gateway,Multiple login failures,49
+2025-11-13 22:58:40.725962,Network Alert,api-gateway,Large data download,14
+2025-11-13 21:58:40.725965,System Error,ops-user,Password reset,15
+2025-11-13 20:58:40.725968,Data Access,api-gateway,Password reset,31
+2025-11-13 19:58:40.725971,Network Alert,ops-user,Multiple login failures,1
+2025-11-13 18:58:40.725973,Login Failure,admin,Large data download,54
+2025-11-13 17:58:40.725983,System Error,ops-user,Unauthorized access attempt,3
+2025-11-13 16:58:40.725985,Login Failure,ops-user,Multiple login failures,16
+2025-11-13 15:58:40.725987,System Error,api-gateway,Password reset,87
+2025-11-13 14:58:40.725988,Network Alert,api-gateway,Password reset,57
+2025-11-13 13:58:40.725990,IAM Change,svc-corebank,Multiple login failures,75
+2025-11-13 12:58:40.725991,System Error,svc-corebank,Large data download,12
+2025-11-13 11:58:40.725993,Login Failure,admin,Password reset,74
+2025-11-13 10:58:40.725994,Network Alert,svc-corebank,Large data download,96
+2025-11-13 09:58:40.725995,System Error,ops-user,Password reset,16
+2025-11-13 08:58:40.725997,IAM Change,api-gateway,Password reset,72
+2025-11-13 07:58:40.725998,IAM Change,svc-corebank,Privilege escalation,76
+2025-11-13 06:58:40.726000,Data Access,svc-corebank,Password reset,24
+2025-11-13 05:58:40.726001,Data Access,admin,Unauthorized access attempt,28
+2025-11-13 04:58:40.726003,Login Failure,admin,Multiple login failures,8
+2025-11-13 03:58:40.726004,System Error,ops-user,Multiple login failures,92
+2025-11-13 02:58:40.726006,System Error,api-gateway,Large data download,36
+2025-11-13 01:58:40.726007,Data Access,admin,Password reset,90
+2025-11-13 00:58:40.726009,System Error,svc-corebank,Unauthorized access attempt,8
+2025-11-12 23:58:40.726010,System Error,api-gateway,Large data download,58
+2025-11-12 22:58:40.726012,IAM Change,api-gateway,Privilege escalation,60
+2025-11-12 21:58:40.726013,Data Access,svc-corebank,Large data download,50
+2025-11-12 20:58:40.726015,Network Alert,admin,Large data download,28
+2025-11-12 19:58:40.726016,Data Access,svc-corebank,Password reset,92
+2025-11-12 18:58:40.726017,Network Alert,api-gateway,Privilege escalation,41
+2025-11-12 17:58:40.726019,IAM Change,atm-agent,Large data download,64
+2025-11-12 16:58:40.726020,Login Failure,atm-agent,Unauthorized access attempt,27
+2025-11-12 15:58:40.726022,System Error,ops-user,Unauthorized access attempt,63
+2025-11-12 14:58:40.726023,IAM Change,svc-corebank,Multiple login failures,17
+2025-11-12 13:58:40.726025,System Error,svc-corebank,Privilege escalation,73
+2025-11-12 12:58:40.726026,Login Failure,ops-user,Privilege escalation,33
+2025-11-12 11:58:40.726028,Login Failure,ops-user,Multiple login failures,84
+2025-11-12 10:58:40.726029,IAM Change,ops-user,Large data download,77
+2025-11-12 09:58:40.726031,Login Failure,api-gateway,Privilege escalation,92
+2025-11-12 08:58:40.726032,Network Alert,svc-corebank,Unauthorized access attempt,29
+2025-11-12 07:58:40.726033,Login Failure,api-gateway,Unauthorized access attempt,13
+2025-11-12 06:58:40.726035,System Error,ops-user,Password reset,46
+2025-11-12 05:58:40.726036,System Error,svc-corebank,Privilege escalation,35
+2025-11-12 04:58:40.726038,System Error,api-gateway,Large data download,6
+2025-11-12 03:58:40.726040,System Error,api-gateway,Multiple login failures,82
+2025-11-12 02:58:40.726041,Network Alert,ops-user,Multiple login failures,69
+2025-11-12 01:58:40.726043,Data Access,svc-corebank,Large data download,47
+2025-11-12 00:58:40.726044,IAM Change,ops-user,Password reset,25
+2025-11-11 23:58:40.726046,System Error,svc-corebank,Multiple login failures,66
+2025-11-11 22:58:40.726047,Login Failure,atm-agent,Privilege escalation,10
+2025-11-11 21:58:40.726049,System Error,admin,Password reset,56
+2025-11-11 20:58:40.726050,Login Failure,admin,Privilege escalation,30
+2025-11-11 19:58:40.726052,Login Failure,admin,Unauthorized access attempt,5
+2025-11-11 18:58:40.726054,System Error,ops-user,Password reset,33
+2025-11-11 17:58:40.726055,Network Alert,atm-agent,Multiple login failures,65
+2025-11-11 16:58:40.726057,Login Failure,svc-corebank,Password reset,18
+2025-11-11 15:58:40.726058,Login Failure,api-gateway,Password reset,96
+2025-11-11 14:58:40.726060,System Error,svc-corebank,Password reset,49
+2025-11-11 13:58:40.726062,Login Failure,api-gateway,Password reset,11
+2025-11-11 12:58:40.726063,Login Failure,svc-corebank,Privilege escalation,85
+2025-11-11 11:58:40.726065,System Error,atm-agent,Unauthorized access attempt,26
+2025-11-11 10:58:40.726066,System Error,api-gateway,Large data download,63
+2025-11-11 09:58:40.726067,IAM Change,ops-user,Password reset,89
+2025-11-11 08:58:40.726069,Network Alert,svc-corebank,Multiple login failures,86
+2025-11-11 07:58:40.726070,Network Alert,svc-corebank,Password reset,59
+2025-11-11 06:58:40.726072,Login Failure,api-gateway,Multiple login failures,27
+2025-11-11 05:58:40.726073,Network Alert,ops-user,Privilege escalation,49
+2025-11-11 04:58:40.726074,Login Failure,ops-user,Multiple login failures,77
+2025-11-11 03:58:40.726076,IAM Change,atm-agent,Large data download,33
+2025-11-11 02:58:40.726078,System Error,ops-user,Unauthorized access attempt,98
+2025-11-11 01:58:40.726079,System Error,ops-user,Multiple login failures,99
+2025-11-11 00:58:40.726081,System Error,ops-user,Multiple login failures,1
+2025-11-10 23:58:40.726082,Network Alert,admin,Unauthorized access attempt,21
+2025-11-10 22:58:40.726083,IAM Change,atm-agent,Large data download,55
+2025-11-10 21:58:40.726085,Network Alert,svc-corebank,Password reset,6
+2025-11-10 20:58:40.726086,Network Alert,api-gateway,Multiple login failures,92
+2025-11-10 19:58:40.726088,IAM Change,svc-corebank,Unauthorized access attempt,81
+2025-11-10 18:58:40.726089,IAM Change,atm-agent,Privilege escalation,69
+2025-11-10 17:58:40.726091,IAM Change,api-gateway,Unauthorized access attempt,95
+2025-11-10 16:58:40.726092,IAM Change,atm-agent,Privilege escalation,5
+2025-11-10 15:58:40.726094,System Error,ops-user,Large data download,3
+2025-11-10 14:58:40.726095,Data Access,api-gateway,Password reset,53
+2025-11-10 13:58:40.726097,Data Access,ops-user,Unauthorized access attempt,23
+2025-11-10 12:58:40.726098,IAM Change,svc-corebank,Multiple login failures,53
+2025-11-10 11:58:40.726100,Data Access,svc-corebank,Large data download,37
+2025-11-10 10:58:40.726101,Data Access,api-gateway,Unauthorized access attempt,74
+2025-11-10 09:58:40.726103,IAM Change,api-gateway,Multiple login failures,74
+2025-11-10 08:58:40.726104,Data Access,atm-agent,Unauthorized access attempt,83
+2025-11-10 07:58:40.726106,Network Alert,atm-agent,Privilege escalation,17
+2025-11-10 06:58:40.726107,Login Failure,ops-user,Unauthorized access attempt,85
+2025-11-10 05:58:40.726109,Login Failure,api-gateway,Unauthorized access attempt,78
+2025-11-10 04:58:40.726110,IAM Change,svc-corebank,Unauthorized access attempt,73
+2025-11-10 03:58:40.726112,System Error,atm-agent,Large data download,1
+2025-11-10 02:58:40.726120,IAM Change,atm-agent,Unauthorized access attempt,51
+2025-11-10 01:58:40.726122,System Error,svc-corebank,Multiple login failures,45
+2025-11-10 00:58:40.726123,Login Failure,atm-agent,Privilege escalation,77
+2025-11-09 23:58:40.726125,IAM Change,ops-user,Privilege escalation,4
+2025-11-09 22:58:40.726126,Network Alert,api-gateway,Unauthorized access attempt,62
+2025-11-09 21:58:40.726128,Data Access,svc-corebank,Large data download,65
+2025-11-09 20:58:40.726129,System Error,api-gateway,Large data download,32
+2025-11-09 19:58:40.726130,Data Access,atm-agent,Multiple login failures,34
+2025-11-09 18:58:40.726132,Data Access,atm-agent,Unauthorized access attempt,92
+2025-11-09 17:58:40.726134,IAM Change,svc-corebank,Privilege escalation,95
+2025-11-09 16:58:40.726135,Data Access,ops-user,Large data download,72
+2025-11-09 15:58:40.726136,Network Alert,admin,Unauthorized access attempt,39
+2025-11-09 14:58:40.726138,Data Access,svc-corebank,Large data download,26
+2025-11-09 13:58:40.726139,IAM Change,admin,Large data download,34
+2025-11-09 12:58:40.726141,Network Alert,admin,Privilege escalation,54
+2025-11-09 11:58:40.726142,Login Failure,ops-user,Password reset,3
+2025-11-09 10:58:40.726143,Data Access,admin,Multiple login failures,50
+2025-11-09 09:58:40.726145,IAM Change,admin,Multiple login failures,12
+2025-11-09 08:58:40.726146,Login Failure,ops-user,Privilege escalation,65
+2025-11-09 07:58:40.726148,Login Failure,admin,Large data download,54
+2025-11-09 06:58:40.726149,System Error,admin,Unauthorized access attempt,5
+2025-11-09 05:58:40.726151,Network Alert,admin,Large data download,94
+2025-11-09 04:58:40.726152,Data Access,svc-corebank,Privilege escalation,94
+2025-11-09 03:58:40.726154,IAM Change,svc-corebank,Multiple login failures,57
+2025-11-09 02:58:40.726155,System Error,svc-corebank,Large data download,17
+2025-11-09 01:58:40.726156,Network Alert,ops-user,Multiple login failures,47
+2025-11-09 00:58:40.726158,System Error,atm-agent,Unauthorized access attempt,23
+2025-11-08 23:58:40.726159,Network Alert,admin,Multiple login failures,79
+2025-11-08 22:58:40.726161,Network Alert,admin,Multiple login failures,85
+2025-11-08 21:58:40.726163,Data Access,ops-user,Password reset,14
+2025-11-08 20:58:40.726164,Network Alert,admin,Password reset,66
+2025-11-08 19:58:40.726166,System Error,svc-corebank,Password reset,75
+2025-11-08 18:58:40.726167,Network Alert,atm-agent,Multiple login failures,51
+2025-11-08 17:58:40.726168,Data Access,api-gateway,Privilege escalation,38
+2025-11-08 16:58:40.726170,Data Access,admin,Multiple login failures,64
+2025-11-08 15:58:40.726171,System Error,svc-corebank,Privilege escalation,98
+2025-11-08 14:58:40.726173,Login Failure,api-gateway,Privilege escalation,38
+2025-11-08 13:58:40.726174,Login Failure,atm-agent,Password reset,50
+2025-11-08 12:58:40.726176,Network Alert,api-gateway,Large data download,98
+2025-11-08 11:58:40.726177,IAM Change,svc-corebank,Unauthorized access attempt,82
+2025-11-08 10:58:40.726179,Network Alert,api-gateway,Password reset,30
+2025-11-08 09:58:40.726180,System Error,ops-user,Password reset,79
+2025-11-08 08:58:40.726181,System Error,api-gateway,Large data download,91
+2025-11-08 07:58:40.726183,System Error,admin,Unauthorized access attempt,51
+2025-11-08 06:58:40.726184,System Error,admin,Multiple login failures,63
+2025-11-08 05:58:40.726186,System Error,ops-user,Multiple login failures,98
+2025-11-08 04:58:40.726187,Data Access,svc-corebank,Password reset,52
+2025-11-08 03:58:40.726189,Login Failure,admin,Unauthorized access attempt,38
+2025-11-08 02:58:40.726191,System Error,atm-agent,Password reset,97
+2025-11-08 01:58:40.726192,IAM Change,admin,Privilege escalation,88
+2025-11-08 00:58:40.726194,IAM Change,admin,Password reset,79
+2025-11-07 23:58:40.726197,IAM Change,svc-corebank,Password reset,30
+2025-11-07 22:58:40.726198,IAM Change,api-gateway,Multiple login failures,51
+2025-11-07 21:58:40.726200,Data Access,admin,Multiple login failures,81
+2025-11-07 20:58:40.726201,IAM Change,ops-user,Multiple login failures,5
+2025-11-07 19:58:40.726203,System Error,api-gateway,Privilege escalation,29
+2025-11-07 18:58:40.726204,Network Alert,atm-agent,Multiple login failures,4
+2025-11-07 17:58:40.726205,IAM Change,svc-corebank,Unauthorized access attempt,10
+2025-11-07 16:58:40.726207,Data Access,atm-agent,Large data download,56
+2025-11-07 15:58:40.726208,Data Access,api-gateway,Unauthorized access attempt,17
+2025-11-07 14:58:40.726210,IAM Change,api-gateway,Unauthorized access attempt,74
+2025-11-07 13:58:40.726211,Network Alert,api-gateway,Multiple login failures,17
+2025-11-07 12:58:40.726213,IAM Change,atm-agent,Large data download,84
+2025-11-07 11:58:40.726214,Data Access,api-gateway,Large data download,88
+2025-11-07 10:58:40.726216,Login Failure,atm-agent,Large data download,69
+2025-11-07 09:58:40.726217,System Error,api-gateway,Privilege escalation,34
+2025-11-07 08:58:40.726219,Data Access,ops-user,Multiple login failures,6
+2025-11-07 07:58:40.726220,IAM Change,api-gateway,Large data download,53
+2025-11-07 06:58:40.726222,System Error,atm-agent,Privilege escalation,66
+2025-11-07 05:58:40.726223,IAM Change,admin,Password reset,77
+2025-11-07 04:58:40.726225,IAM Change,api-gateway,Password reset,43
+2025-11-07 03:58:40.726227,Login Failure,admin,Privilege escalation,75
+2025-11-07 02:58:40.726229,System Error,ops-user,Privilege escalation,23
+2025-11-07 01:58:40.726231,System Error,svc-corebank,Multiple login failures,55
+2025-11-07 00:58:40.726232,Login Failure,ops-user,Multiple login failures,80
+2025-11-06 23:58:40.726234,Data Access,api-gateway,Password reset,95
+2025-11-06 22:58:40.726235,IAM Change,admin,Large data download,75
+2025-11-06 21:58:40.726237,Network Alert,admin,Password reset,16
+2025-11-06 20:58:40.726238,IAM Change,atm-agent,Large data download,8
+2025-11-06 19:58:40.726240,IAM Change,admin,Large data download,4
+2025-11-06 18:58:40.726241,Data Access,atm-agent,Multiple login failures,4
+2025-11-06 17:58:40.726243,IAM Change,svc-corebank,Unauthorized access attempt,56
+2025-11-06 16:58:40.726244,Login Failure,api-gateway,Unauthorized access attempt,25
+2025-11-06 15:58:40.726245,Login Failure,atm-agent,Privilege escalation,67
+2025-11-06 14:58:40.726247,System Error,svc-corebank,Multiple login failures,96
+2025-11-06 13:58:40.726248,Network Alert,admin,Large data download,67
+2025-11-06 12:58:40.726250,IAM Change,admin,Unauthorized access attempt,27
+2025-11-06 11:58:40.726251,IAM Change,svc-corebank,Large data download,93
+2025-11-06 10:58:40.726253,Data Access,admin,Unauthorized access attempt,32
+2025-11-06 09:58:40.726254,Login Failure,svc-corebank,Unauthorized access attempt,50
+2025-11-06 08:58:40.726255,Network Alert,atm-agent,Unauthorized access attempt,61
+2025-11-06 07:58:40.726257,System Error,atm-agent,Multiple login failures,51
+2025-11-06 06:58:40.726258,Login Failure,svc-corebank,Password reset,19
+2025-11-06 05:58:40.726260,System Error,atm-agent,Large data download,21
+2025-11-06 04:58:40.726261,Data Access,atm-agent,Multiple login failures,5
+2025-11-06 03:58:40.726263,Data Access,atm-agent,Multiple login failures,82
+2025-11-06 02:58:40.726264,IAM Change,ops-user,Multiple login failures,92
+2025-11-06 01:58:40.726266,Network Alert,api-gateway,Multiple login failures,42
+2025-11-06 00:58:40.726267,System Error,admin,Multiple login failures,61

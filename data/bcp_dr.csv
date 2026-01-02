@@ -1,0 +1,41 @@
+process,rto_hours,rpo_hours,last_test_date,status
+Core Banking,1.0,0.5,2024-06-01,Pass
+Core Banking,1.0,2.0,2024-06-16,Fail
+Payments,8.0,2.0,2024-07-01,Pass
+Payments,8.0,0.5,2024-07-16,Fail
+Core Banking,8.0,0.25,2024-07-31,Fail
+Payments,1.0,0.5,2024-08-15,Fail
+Core Banking,4.0,2.0,2024-08-30,Fail
+Core Banking,4.0,1.0,2024-09-14,Fail
+Internet Banking,2.0,0.5,2024-09-29,Fail
+Payments,8.0,2.0,2024-10-14,Pass
+UPI,2.0,2.0,2024-10-29,Pass
+Core Banking,8.0,0.5,2024-11-13,Fail
+Core Banking,4.0,0.5,2024-11-28,Fail
+Core Banking,4.0,0.25,2024-12-13,Pass
+UPI,4.0,0.5,2024-12-28,Fail
+UPI,0.5,0.25,2025-01-12,Fail
+Internet Banking,1.0,0.25,2025-01-27,Fail
+UPI,4.0,2.0,2025-02-11,Fail
+Core Banking,8.0,0.25,2025-02-26,Fail
+ATM,4.0,0.25,2025-03-13,Pass
+Payments,2.0,0.5,2025-03-28,Fail
+Core Banking,1.0,1.0,2025-04-12,Pass
+Core Banking,1.0,1.0,2025-04-27,Pass
+ATM,2.0,1.0,2025-05-12,Fail
+ATM,2.0,2.0,2025-05-27,Pass
+Internet Banking,0.5,2.0,2025-06-11,Pass
+Payments,2.0,2.0,2025-06-26,Pass
+Payments,8.0,1.0,2025-07-11,Pass
+Internet Banking,0.5,1.0,2025-07-26,Fail
+UPI,8.0,1.0,2025-08-10,Pass
+Core Banking,1.0,0.25,2025-08-25,Fail
+Payments,8.0,0.25,2025-09-09,Fail
+Core Banking,8.0,0.5,2025-09-24,Fail
+UPI,4.0,2.0,2025-10-09,Fail
+ATM,4.0,1.0,2025-10-24,Pass
+UPI,8.0,1.0,2025-11-08,Pass
+UPI,2.0,0.25,2025-11-23,Pass
+ATM,2.0,1.0,2025-12-08,Pass
+UPI,4.0,2.0,2025-12-23,Pass
+ATM,4.0,0.25,2026-01-07,Fail

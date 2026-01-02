@@ -1,0 +1,12 @@
+version: "3.8"
+services:
+  grc:
+    build: .
+    ports:
+      - "8000:8000"
+    environment:
+      - MCP_SERVICE_TOKEN=dev-token
+    volumes:
+      - ./data:/app/data
+      - ./reports:/app/reports
+      - ./grc_prod.db:/app/grc_prod.db

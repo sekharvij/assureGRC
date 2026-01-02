@@ -1,0 +1,201 @@
+audit_id,audit_type,entity,risk_rating,status,open_issues,closed_issues,audit_manager,year
+AUD-1000,Compliance,ERP,High,Fieldwork,9,9,Meena,2024
+AUD-1001,Finance,HR,Medium,Final Report,14,0,Anita,2024
+AUD-1002,Security,Payments,Low,Scheduled,14,8,Anita,2024
+AUD-1003,Finance,Payments,Critical,Final Report,6,17,Suresh,2024
+AUD-1004,Compliance,Payments,High,Fieldwork,15,20,Suresh,2024
+AUD-1005,Security,Payments,Medium,Fieldwork,12,20,Meena,2024
+AUD-1006,IT,ERP,High,Fieldwork,7,18,Rahul,2024
+AUD-1007,IT,Payments,Medium,Final Report,8,17,Meena,2024
+AUD-1008,IT,HR,High,Final Report,2,2,Suresh,2024
+AUD-1009,IT,HR,Low,Scheduled,5,15,Anita,2024
+AUD-1010,Security,HR,Medium,Final Report,7,15,Rahul,2024
+AUD-1011,IT,Payments,Low,Final Report,4,20,Anita,2024
+AUD-1012,Compliance,HR,High,Fieldwork,5,0,Anita,2024
+AUD-1013,IT,Payments,Low,Final Report,3,14,Meena,2024
+AUD-1014,Finance,ERP,Medium,Final Report,5,10,Meena,2024
+AUD-1015,Compliance,Payments,Critical,Scheduled,15,4,Rahul,2024
+AUD-1016,Security,Payments,Critical,Final Report,7,14,Rahul,2024
+AUD-1017,Security,HR,Medium,Scheduled,10,20,Suresh,2024
+AUD-1018,Compliance,Payments,High,Scheduled,0,17,Anita,2024
+AUD-1019,IT,HR,High,Fieldwork,10,13,Suresh,2024
+AUD-1020,Security,Payments,High,Scheduled,9,6,Meena,2024
+AUD-1021,Security,CRM,High,Fieldwork,14,4,Meena,2024
+AUD-1022,Compliance,Payments,Critical,Final Report,0,11,Anita,2024
+AUD-1023,IT,HR,Low,Final Report,10,6,Rahul,2024
+AUD-1024,Compliance,Payments,Critical,Fieldwork,4,4,Rahul,2024
+AUD-1025,Compliance,Payments,Low,Fieldwork,15,4,Rahul,2024
+AUD-1026,Compliance,Payments,Low,Final Report,14,9,Anita,2024
+AUD-1027,Security,CRM,High,Fieldwork,10,1,Anita,2024
+AUD-1028,Compliance,HR,Medium,Scheduled,10,15,Suresh,2024
+AUD-1029,Compliance,CRM,High,Final Report,0,10,Meena,2024
+AUD-1030,Security,HR,High,Scheduled,13,1,Rahul,2024
+AUD-1031,Finance,CRM,Low,Scheduled,1,15,Meena,2024
+AUD-1032,Security,ERP,Low,Fieldwork,15,8,Rahul,2024
+AUD-1033,IT,CRM,Medium,Fieldwork,7,8,Meena,2024
+AUD-1034,IT,ERP,Medium,Final Report,9,17,Meena,2024
+AUD-1035,IT,HR,High,Final Report,8,14,Meena,2024
+AUD-1036,Finance,Payments,Low,Fieldwork,9,18,Rahul,2024
+AUD-1037,IT,ERP,Critical,Fieldwork,15,19,Suresh,2024
+AUD-1038,Finance,Payments,High,Fieldwork,15,18,Anita,2024
+AUD-1039,Compliance,Payments,Low,Final Report,14,8,Suresh,2024
+AUD-1040,Finance,ERP,Medium,Fieldwork,14,16,Meena,2024
+AUD-1041,Finance,Payments,Medium,Final Report,7,16,Rahul,2024
+AUD-1042,Security,HR,Low,Fieldwork,9,14,Anita,2024
+AUD-1043,Security,HR,High,Scheduled,2,14,Suresh,2024
+AUD-1044,IT,CRM,Critical,Scheduled,8,19,Meena,2024
+AUD-1045,Finance,Payments,Medium,Scheduled,13,5,Suresh,2024
+AUD-1046,IT,Payments,High,Fieldwork,13,18,Rahul,2024
+AUD-1047,Finance,Payments,Critical,Scheduled,3,6,Anita,2024
+AUD-1048,Security,HR,Low,Scheduled,1,13,Meena,2024
+AUD-1049,Security,HR,Medium,Fieldwork,15,1,Meena,2024
+AUD-1050,Finance,Payments,High,Final Report,9,10,Rahul,2024
+AUD-1051,Compliance,CRM,Low,Scheduled,8,13,Rahul,2024
+AUD-1052,Compliance,Payments,Low,Fieldwork,15,15,Meena,2024
+AUD-1053,IT,Payments,Medium,Final Report,1,10,Suresh,2024
+AUD-1054,Finance,CRM,High,Final Report,6,0,Rahul,2024
+AUD-1055,Finance,Payments,Critical,Fieldwork,15,7,Anita,2024
+AUD-1056,Compliance,ERP,Medium,Scheduled,15,19,Meena,2024
+AUD-1057,IT,CRM,Critical,Scheduled,11,5,Rahul,2024
+AUD-1058,Security,CRM,Critical,Scheduled,2,15,Anita,2024
+AUD-1059,Finance,HR,Medium,Fieldwork,10,3,Rahul,2024
+AUD-1060,Security,CRM,High,Scheduled,1,3,Meena,2024
+AUD-1061,IT,Payments,Critical,Fieldwork,7,8,Rahul,2024
+AUD-1062,Security,CRM,Low,Scheduled,8,14,Meena,2024
+AUD-1063,Security,HR,Low,Final Report,1,2,Meena,2024
+AUD-1064,Security,ERP,High,Final Report,4,18,Anita,2024
+AUD-1065,Finance,CRM,Low,Fieldwork,4,13,Rahul,2024
+AUD-1066,IT,ERP,Low,Final Report,15,2,Meena,2024
+AUD-1067,Security,HR,Medium,Final Report,2,0,Anita,2024
+AUD-1068,Compliance,ERP,Medium,Scheduled,5,14,Rahul,2024
+AUD-1069,IT,ERP,Medium,Scheduled,3,14,Suresh,2024
+AUD-1070,Security,Payments,Medium,Fieldwork,8,13,Anita,2024
+AUD-1071,Security,Payments,High,Fieldwork,0,8,Rahul,2024
+AUD-1072,Compliance,CRM,Low,Final Report,0,2,Suresh,2024
+AUD-1073,Finance,ERP,Low,Scheduled,14,6,Suresh,2024
+AUD-1074,IT,HR,Low,Scheduled,2,18,Anita,2024
+AUD-1075,IT,Payments,Low,Scheduled,0,7,Meena,2024
+AUD-1076,Security,CRM,Low,Final Report,2,6,Meena,2024
+AUD-1077,Finance,CRM,Low,Scheduled,15,13,Anita,2024
+AUD-1078,Compliance,ERP,Critical,Scheduled,13,16,Suresh,2024
+AUD-1079,Finance,ERP,Medium,Final Report,3,8,Rahul,2024
+AUD-1080,Security,ERP,Critical,Final Report,14,16,Rahul,2024
+AUD-1081,IT,HR,Critical,Scheduled,3,2,Meena,2024
+AUD-1082,Compliance,ERP,Medium,Fieldwork,13,8,Rahul,2024
+AUD-1083,Compliance,HR,High,Final Report,0,4,Suresh,2024
+AUD-1084,Compliance,CRM,Low,Final Report,4,0,Anita,2024
+AUD-1085,IT,ERP,Low,Scheduled,12,17,Anita,2024
+AUD-1086,Security,CRM,High,Scheduled,2,1,Anita,2024
+AUD-1087,Compliance,ERP,High,Final Report,6,10,Rahul,2024
+AUD-1088,Security,CRM,Medium,Final Report,11,6,Meena,2024
+AUD-1089,IT,Payments,High,Final Report,3,5,Anita,2024
+AUD-1090,Compliance,HR,Low,Final Report,11,12,Anita,2024
+AUD-1091,Security,Payments,Critical,Fieldwork,15,2,Rahul,2024
+AUD-1092,Compliance,ERP,Medium,Scheduled,2,10,Anita,2024
+AUD-1093,Finance,HR,Medium,Fieldwork,5,0,Rahul,2024
+AUD-1094,Compliance,Payments,Medium,Scheduled,2,11,Suresh,2024
+AUD-1095,Compliance,Payments,Medium,Final Report,9,1,Rahul,2024
+AUD-1096,Compliance,CRM,High,Final Report,14,12,Rahul,2024
+AUD-1097,Finance,Payments,High,Fieldwork,7,18,Anita,2024
+AUD-1098,IT,CRM,High,Fieldwork,14,10,Meena,2024
+AUD-1099,Security,ERP,Medium,Final Report,2,5,Rahul,2024
+AUD-1100,Security,HR,Critical,Final Report,13,1,Suresh,2024
+AUD-1101,IT,CRM,Low,Scheduled,11,16,Anita,2024
+AUD-1102,IT,HR,Critical,Scheduled,1,11,Anita,2024
+AUD-1103,IT,HR,Medium,Scheduled,13,12,Rahul,2024
+AUD-1104,Security,Payments,High,Fieldwork,12,4,Rahul,2024
+AUD-1105,IT,CRM,Low,Fieldwork,15,13,Suresh,2024
+AUD-1106,IT,ERP,Low,Scheduled,5,4,Suresh,2024
+AUD-1107,Finance,HR,High,Scheduled,1,13,Suresh,2024
+AUD-1108,Compliance,CRM,Medium,Final Report,3,11,Meena,2024
+AUD-1109,IT,ERP,High,Fieldwork,9,8,Suresh,2024
+AUD-1110,Security,ERP,High,Final Report,11,2,Meena,2024
+AUD-1111,Finance,Payments,Critical,Scheduled,9,15,Rahul,2024
+AUD-1112,Finance,Payments,Low,Final Report,3,5,Rahul,2024
+AUD-1113,Security,HR,Medium,Fieldwork,3,16,Anita,2024
+AUD-1114,Compliance,ERP,Critical,Scheduled,0,7,Rahul,2024
+AUD-1115,Finance,CRM,High,Fieldwork,4,10,Meena,2024
+AUD-1116,Security,Payments,High,Fieldwork,5,3,Suresh,2024
+AUD-1117,Compliance,HR,Low,Scheduled,13,0,Anita,2024
+AUD-1118,Finance,Payments,High,Final Report,3,10,Anita,2024
+AUD-1119,IT,Payments,Critical,Final Report,7,16,Anita,2024
+AUD-1120,Finance,HR,Medium,Scheduled,7,1,Meena,2024
+AUD-1121,Security,Payments,High,Final Report,4,3,Meena,2024
+AUD-1122,Compliance,Payments,Low,Scheduled,6,14,Suresh,2024
+AUD-1123,IT,Payments,Medium,Fieldwork,7,10,Rahul,2024
+AUD-1124,Security,CRM,High,Fieldwork,8,1,Anita,2024
+AUD-1125,IT,ERP,Medium,Fieldwork,13,14,Meena,2024
+AUD-1126,Compliance,HR,Critical,Final Report,3,1,Rahul,2024
+AUD-1127,Finance,Payments,Low,Fieldwork,7,2,Anita,2024
+AUD-1128,Compliance,ERP,Critical,Scheduled,9,18,Meena,2024
+AUD-1129,Finance,CRM,Critical,Scheduled,8,5,Suresh,2024
+AUD-1130,Finance,Payments,Critical,Fieldwork,7,14,Meena,2024
+AUD-1131,Security,ERP,Low,Scheduled,14,7,Suresh,2024
+AUD-1132,Security,ERP,High,Scheduled,8,4,Rahul,2024
+AUD-1133,IT,ERP,Critical,Fieldwork,4,11,Meena,2024
+AUD-1134,Security,CRM,Medium,Scheduled,14,19,Suresh,2024
+AUD-1135,Compliance,HR,Medium,Scheduled,2,6,Rahul,2024
+AUD-1136,Finance,HR,Critical,Final Report,2,11,Suresh,2024
+AUD-1137,Security,CRM,Medium,Final Report,11,3,Rahul,2024
+AUD-1138,Security,Payments,Critical,Final Report,15,1,Rahul,2024
+AUD-1139,IT,Payments,Critical,Final Report,14,16,Rahul,2024
+AUD-1140,IT,Payments,Medium,Final Report,6,8,Suresh,2024
+AUD-1141,IT,CRM,High,Scheduled,5,11,Rahul,2024
+AUD-1142,Security,CRM,Low,Scheduled,14,8,Anita,2024
+AUD-1143,IT,ERP,Low,Scheduled,0,14,Anita,2024
+AUD-1144,Finance,HR,Critical,Scheduled,1,12,Meena,2024
+AUD-1145,Finance,ERP,Medium,Final Report,9,4,Anita,2024
+AUD-1146,Finance,HR,Low,Fieldwork,14,11,Rahul,2024
+AUD-1147,Compliance,CRM,Critical,Final Report,14,1,Rahul,2024
+AUD-1148,IT,CRM,High,Final Report,1,11,Suresh,2024
+AUD-1149,IT,ERP,High,Scheduled,1,16,Rahul,2024
+AUD-1150,Security,ERP,Critical,Final Report,9,14,Meena,2024
+AUD-1151,Compliance,HR,High,Scheduled,6,19,Rahul,2024
+AUD-1152,IT,ERP,Critical,Final Report,14,13,Rahul,2024
+AUD-1153,Finance,ERP,Medium,Scheduled,7,19,Anita,2024
+AUD-1154,Finance,ERP,Critical,Fieldwork,5,8,Meena,2024
+AUD-1155,IT,CRM,Medium,Fieldwork,11,12,Meena,2024
+AUD-1156,Finance,HR,High,Fieldwork,4,9,Rahul,2024
+AUD-1157,Finance,ERP,High,Fieldwork,4,7,Meena,2024
+AUD-1158,Compliance,HR,Medium,Fieldwork,10,19,Anita,2024
+AUD-1159,Finance,CRM,Medium,Final Report,8,3,Anita,2024
+AUD-1160,Security,Payments,Critical,Final Report,3,14,Meena,2024
+AUD-1161,Security,ERP,Critical,Final Report,13,2,Anita,2024
+AUD-1162,IT,ERP,Low,Fieldwork,12,16,Rahul,2024
+AUD-1163,IT,HR,Low,Fieldwork,12,3,Meena,2024
+AUD-1164,IT,HR,Low,Fieldwork,1,9,Rahul,2024
+AUD-1165,IT,HR,High,Fieldwork,8,19,Meena,2024
+AUD-1166,Security,ERP,Medium,Final Report,9,20,Meena,2024
+AUD-1167,IT,CRM,Medium,Fieldwork,10,1,Anita,2024
+AUD-1168,Security,HR,Low,Scheduled,1,17,Suresh,2024
+AUD-1169,Security,Payments,Medium,Fieldwork,0,2,Anita,2024
+AUD-1170,Finance,ERP,Low,Final Report,5,20,Suresh,2024
+AUD-1171,Finance,CRM,Medium,Fieldwork,3,7,Meena,2024
+AUD-1172,Compliance,ERP,Critical,Final Report,9,4,Anita,2024
+AUD-1173,Security,Payments,Medium,Final Report,1,16,Rahul,2024
+AUD-1174,Compliance,CRM,Medium,Final Report,7,10,Meena,2024
+AUD-1175,Security,Payments,Medium,Fieldwork,5,9,Anita,2024
+AUD-1176,Compliance,Payments,Low,Scheduled,11,14,Meena,2024
+AUD-1177,IT,Payments,Low,Scheduled,13,13,Rahul,2024
+AUD-1178,IT,Payments,Critical,Final Report,13,13,Suresh,2024
+AUD-1179,Finance,Payments,High,Scheduled,6,6,Meena,2024
+AUD-1180,Finance,HR,High,Final Report,10,9,Suresh,2024
+AUD-1181,Compliance,ERP,Critical,Fieldwork,12,8,Meena,2024
+AUD-1182,Security,HR,Critical,Scheduled,15,13,Rahul,2024
+AUD-1183,Compliance,CRM,Low,Fieldwork,9,8,Rahul,2024
+AUD-1184,Compliance,ERP,Medium,Final Report,1,7,Meena,2024
+AUD-1185,Finance,Payments,Medium,Final Report,12,19,Rahul,2024
+AUD-1186,IT,HR,High,Scheduled,10,7,Suresh,2024
+AUD-1187,Finance,HR,High,Scheduled,4,20,Meena,2024
+AUD-1188,IT,CRM,High,Fieldwork,0,8,Suresh,2024
+AUD-1189,IT,Payments,Medium,Fieldwork,6,3,Anita,2024
+AUD-1190,Compliance,HR,Critical,Scheduled,7,16,Suresh,2024
+AUD-1191,IT,Payments,Medium,Scheduled,11,20,Anita,2024
+AUD-1192,Compliance,CRM,Low,Final Report,4,20,Anita,2024
+AUD-1193,Security,CRM,Medium,Scheduled,12,20,Anita,2024
+AUD-1194,Compliance,HR,Low,Scheduled,1,15,Anita,2024
+AUD-1195,Security,CRM,Medium,Scheduled,10,12,Suresh,2024
+AUD-1196,Compliance,HR,Low,Final Report,13,7,Anita,2024
+AUD-1197,Security,HR,Critical,Fieldwork,10,20,Meena,2024
+AUD-1198,Finance,CRM,Critical,Scheduled,4,17,Anita,2024
+AUD-1199,Security,Payments,Critical,Scheduled,2,16,Meena,2024
