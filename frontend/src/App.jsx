@@ -42,7 +42,8 @@ import {
   LabelList,
 } from 'recharts';
 
-const API_BASE = "http://localhost:8000";
+// const API_BASE = "http://localhost:8000";
+const API_BASE = import.meta.env.VITE_API_BASE_URL;
 
 const COLORS = ['#2E57A5', '#3AD4FF', '#10B981', '#F59E0B', '#EF4444'];
 
